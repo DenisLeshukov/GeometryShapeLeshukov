@@ -34,7 +34,11 @@ namespace GeometryShape
                 }
 
             }
-            return -1;
+            else
+            {
+                throw new ArgumentOutOfRangeException("Неверные данные (сторона1+сторона2 должны быть > стороны3)");
+            }
+            
         }
         public override double Perimeter ()
         {
@@ -50,7 +54,11 @@ namespace GeometryShape
                 }
                 
             }
-            return 0;
+            else
+            {
+                throw new ArgumentOutOfRangeException("Неверные данные (сторона1+сторона2 должны быть > стороны3)");
+            }
+            
             
         }
         public override string ToString ()
