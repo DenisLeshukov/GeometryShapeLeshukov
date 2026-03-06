@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\st310-05\\Desktop\\GeometryShapeLeshukov\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3BC5F7C1-E84B-4759-B8BB-8B644BC8B825}|GeometryShapeLeshukov\\GeometryShapeLeshukov.csproj|c:\\users\\st310-05\\desktop\\geometryshapeleshukov\\geometryshapeleshukov\\triangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BC5F7C1-E84B-4759-B8BB-8B644BC8B825}|GeometryShapeLeshukov\\GeometryShapeLeshukov.csproj|solutionrelative:geometryshapeleshukov\\triangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BC5F7C1-E84B-4759-B8BB-8B644BC8B825}|GeometryShapeLeshukov\\GeometryShapeLeshukov.csproj|c:\\users\\st310-05\\desktop\\geometryshapeleshukov\\geometryshapeleshukov\\shape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BC5F7C1-E84B-4759-B8BB-8B644BC8B825}|GeometryShapeLeshukov\\GeometryShapeLeshukov.csproj|solutionrelative:geometryshapeleshukov\\shape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Triangle.cs",
+              "DocumentMoniker": "C:\\Users\\st310-05\\Desktop\\GeometryShapeLeshukov\\GeometryShapeLeshukov\\Triangle.cs",
+              "RelativeDocumentMoniker": "GeometryShapeLeshukov\\Triangle.cs",
+              "ToolTip": "C:\\Users\\st310-05\\Desktop\\GeometryShapeLeshukov\\GeometryShapeLeshukov\\Triangle.cs",
+              "RelativeToolTip": "GeometryShapeLeshukov\\Triangle.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-06T08:34:55.492Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Shape.cs",
+              "DocumentMoniker": "C:\\Users\\st310-05\\Desktop\\GeometryShapeLeshukov\\GeometryShapeLeshukov\\Shape.cs",
+              "RelativeDocumentMoniker": "GeometryShapeLeshukov\\Shape.cs",
+              "ToolTip": "C:\\Users\\st310-05\\Desktop\\GeometryShapeLeshukov\\GeometryShapeLeshukov\\Shape.cs",
+              "RelativeToolTip": "GeometryShapeLeshukov\\Shape.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-06T08:34:54.621Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
