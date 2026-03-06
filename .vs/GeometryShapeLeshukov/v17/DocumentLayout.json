@@ -3,11 +3,19 @@
   "WorkspaceRootPath": "C:\\Users\\st310-05\\Desktop\\GeometryShapeLeshukov\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3BC5F7C1-E84B-4759-B8BB-8B644BC8B825}|GeometryShapeLeshukov\\GeometryShapeLeshukov.csproj|c:\\users\\st310-05\\desktop\\geometryshapeleshukov\\geometryshapeleshukov\\triangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D7FC7FCB-CB40-48DF-BF76-E79BC8A144A8}|GeometryShapeTest\\GeometryShapeTest.csproj|c:\\users\\st310-05\\desktop\\geometryshapeleshukov\\geometryshapetest\\shapetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7FC7FCB-CB40-48DF-BF76-E79BC8A144A8}|GeometryShapeTest\\GeometryShapeTest.csproj|solutionrelative:geometryshapetest\\shapetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BC5F7C1-E84B-4759-B8BB-8B644BC8B825}|GeometryShapeLeshukov\\GeometryShapeLeshukov.csproj|C:\\Users\\st310-05\\Desktop\\GeometryShapeLeshukov\\geometryshapeleshukov\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BC5F7C1-E84B-4759-B8BB-8B644BC8B825}|GeometryShapeLeshukov\\GeometryShapeLeshukov.csproj|solutionrelative:geometryshapeleshukov\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BC5F7C1-E84B-4759-B8BB-8B644BC8B825}|GeometryShapeLeshukov\\GeometryShapeLeshukov.csproj|C:\\Users\\st310-05\\Desktop\\GeometryShapeLeshukov\\geometryshapeleshukov\\triangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3BC5F7C1-E84B-4759-B8BB-8B644BC8B825}|GeometryShapeLeshukov\\GeometryShapeLeshukov.csproj|solutionrelative:geometryshapeleshukov\\triangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3BC5F7C1-E84B-4759-B8BB-8B644BC8B825}|GeometryShapeLeshukov\\GeometryShapeLeshukov.csproj|c:\\users\\st310-05\\desktop\\geometryshapeleshukov\\geometryshapeleshukov\\shape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3BC5F7C1-E84B-4759-B8BB-8B644BC8B825}|GeometryShapeLeshukov\\GeometryShapeLeshukov.csproj|C:\\Users\\st310-05\\Desktop\\GeometryShapeLeshukov\\geometryshapeleshukov\\shape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3BC5F7C1-E84B-4759-B8BB-8B644BC8B825}|GeometryShapeLeshukov\\GeometryShapeLeshukov.csproj|solutionrelative:geometryshapeleshukov\\shape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -18,11 +26,36 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Rectangle.cs",
+              "DocumentMoniker": "C:\\Users\\st310-05\\Desktop\\GeometryShapeLeshukov\\GeometryShapeLeshukov\\Rectangle.cs",
+              "RelativeDocumentMoniker": "GeometryShapeLeshukov\\Rectangle.cs",
+              "ToolTip": "C:\\Users\\st310-05\\Desktop\\GeometryShapeLeshukov\\GeometryShapeLeshukov\\Rectangle.cs",
+              "RelativeToolTip": "GeometryShapeLeshukov\\Rectangle.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAYAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-06T08:42:54.738Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "ShapeTest.cs",
+              "DocumentMoniker": "C:\\Users\\st310-05\\Desktop\\GeometryShapeLeshukov\\GeometryShapeTest\\ShapeTest.cs",
+              "RelativeDocumentMoniker": "GeometryShapeTest\\ShapeTest.cs",
+              "ToolTip": "C:\\Users\\st310-05\\Desktop\\GeometryShapeLeshukov\\GeometryShapeTest\\ShapeTest.cs",
+              "RelativeToolTip": "GeometryShapeTest\\ShapeTest.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAQwBEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-06T08:41:24.758Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Triangle.cs",
               "DocumentMoniker": "C:\\Users\\st310-05\\Desktop\\GeometryShapeLeshukov\\GeometryShapeLeshukov\\Triangle.cs",
               "RelativeDocumentMoniker": "GeometryShapeLeshukov\\Triangle.cs",
@@ -30,12 +63,11 @@
               "RelativeToolTip": "GeometryShapeLeshukov\\Triangle.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAfAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-06T08:34:55.492Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-06T08:34:55.492Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Shape.cs",
               "DocumentMoniker": "C:\\Users\\st310-05\\Desktop\\GeometryShapeLeshukov\\GeometryShapeLeshukov\\Shape.cs",
               "RelativeDocumentMoniker": "GeometryShapeLeshukov\\Shape.cs",
@@ -43,8 +75,7 @@
               "RelativeToolTip": "GeometryShapeLeshukov\\Shape.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-06T08:34:54.621Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-06T08:34:54.621Z"
             }
           ]
         }

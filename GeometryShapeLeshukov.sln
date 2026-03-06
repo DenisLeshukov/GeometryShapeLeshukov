@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.9.34723.18
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GeometryShapeLeshukov", "GeometryShapeLeshukov\GeometryShapeLeshukov.csproj", "{3BC5F7C1-E84B-4759-B8BB-8B644BC8B825}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GeometryShapeLeshukov", "GeometryShapeLeshukov\GeometryShapeLeshukov.csproj", "{3BC5F7C1-E84B-4759-B8BB-8B644BC8B825}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GeometryShapeTest", "GeometryShapeTest\GeometryShapeTest.csproj", "{D7FC7FCB-CB40-48DF-BF76-E79BC8A144A8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{3BC5F7C1-E84B-4759-B8BB-8B644BC8B825}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3BC5F7C1-E84B-4759-B8BB-8B644BC8B825}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3BC5F7C1-E84B-4759-B8BB-8B644BC8B825}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D7FC7FCB-CB40-48DF-BF76-E79BC8A144A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D7FC7FCB-CB40-48DF-BF76-E79BC8A144A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D7FC7FCB-CB40-48DF-BF76-E79BC8A144A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D7FC7FCB-CB40-48DF-BF76-E79BC8A144A8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

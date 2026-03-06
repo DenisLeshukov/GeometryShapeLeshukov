@@ -1,0 +1,12 @@
+C:\Users\st310-05\Desktop\GeometryShapeLeshukov\GeometryShapeLeshukov\bin\Debug\net8.0\GeometryShapeLeshukov.deps.json
+C:\Users\st310-05\Desktop\GeometryShapeLeshukov\GeometryShapeLeshukov\bin\Debug\net8.0\GeometryShapeLeshukov.dll
+C:\Users\st310-05\Desktop\GeometryShapeLeshukov\GeometryShapeLeshukov\bin\Debug\net8.0\GeometryShapeLeshukov.pdb
+C:\Users\st310-05\Desktop\GeometryShapeLeshukov\GeometryShapeLeshukov\obj\Debug\net8.0\GeometryShapeLeshukov.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\st310-05\Desktop\GeometryShapeLeshukov\GeometryShapeLeshukov\obj\Debug\net8.0\GeometryShapeLeshukov.AssemblyInfoInputs.cache
+C:\Users\st310-05\Desktop\GeometryShapeLeshukov\GeometryShapeLeshukov\obj\Debug\net8.0\GeometryShapeLeshukov.AssemblyInfo.cs
+C:\Users\st310-05\Desktop\GeometryShapeLeshukov\GeometryShapeLeshukov\obj\Debug\net8.0\GeometryShapeLeshukov.csproj.CoreCompileInputs.cache
+C:\Users\st310-05\Desktop\GeometryShapeLeshukov\GeometryShapeLeshukov\obj\Debug\net8.0\GeometryShapeLeshukov.sourcelink.json
+C:\Users\st310-05\Desktop\GeometryShapeLeshukov\GeometryShapeLeshukov\obj\Debug\net8.0\GeometryShapeLeshukov.dll
+C:\Users\st310-05\Desktop\GeometryShapeLeshukov\GeometryShapeLeshukov\obj\Debug\net8.0\refint\GeometryShapeLeshukov.dll
+C:\Users\st310-05\Desktop\GeometryShapeLeshukov\GeometryShapeLeshukov\obj\Debug\net8.0\GeometryShapeLeshukov.pdb
+C:\Users\st310-05\Desktop\GeometryShapeLeshukov\GeometryShapeLeshukov\obj\Debug\net8.0\ref\GeometryShapeLeshukov.dll

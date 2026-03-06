@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GeometryShapeLeshukov")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+de556de81c7a43a9ece2dbcc8eda99b1ab7cd445")]
 [assembly: System.Reflection.AssemblyProductAttribute("GeometryShapeLeshukov")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GeometryShapeLeshukov")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
