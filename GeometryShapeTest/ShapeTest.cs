@@ -4,15 +4,7 @@ namespace GeometryShapeTest
 {
     public class ShapeTest
     {
-        [Fact]
-        public void CheckPerimeterWithRectangleWith5WidthAnd5HeightFakeTest ()
-        {
-            double width = 5;
-            double height = 5;
-            var shape = new Rectangle(width, height);
-            double result = (width + height+2) * 2;
-            Assert.Equal(result, shape.Perimeter( ));
-        }
+        
         [Fact]
         public void CheckPerimeterWithRectangleWith5WidthAnd5Height ()
         {
